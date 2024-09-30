@@ -42,8 +42,8 @@ header p {
 }
 
 .card img {
-    width: 100%;
-    height: auto;
+    width: 200px;
+    height:150px;
     border-radius: 10px;
 }
 
@@ -76,7 +76,7 @@ button:hover {
 footer {
     background-color: #ffcc00;
     text-align: center;
-    padding: 20px;
+    padding: 10px;
     color: #fff;
     position: fixed;
     width: 100%;
